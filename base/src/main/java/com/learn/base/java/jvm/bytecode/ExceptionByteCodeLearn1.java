@@ -1,5 +1,4 @@
-package com.learn.base.jvm.bytecode;
-
+package com.learn.base.java.jvm.bytecode;
 /**
  * @program: learn
  * @description: 异常字节码相关学习1

@@ -1,5 +1,4 @@
-package com.learn.base.jvm.bytecode;
-
+package com.learn.base.java.jvm.bytecode;
 
 /**
  * public class base.bytecode.ExceptionByteCodeLearn4 {

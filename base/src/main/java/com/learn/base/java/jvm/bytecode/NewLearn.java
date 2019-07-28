@@ -1,5 +1,4 @@
-package com.learn.base.jvm.bytecode;
-
+package com.learn.base.java.jvm.bytecode;
 /**
  * @program: learn
  * @description: New关键字的字节码学习
